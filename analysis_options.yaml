@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+# Not happy with the default? Customize the rules depending on your needs.
+# Here are some examples:
+linter:
+  rules:
+    prefer_single_quotes: true
+    use_key_in_widget_constructors: false
+    prefer_relative_imports: true
+    sort_pub_dependencies: false
+    require_trailing_commas: false
+    eol_at_end_of_file: false
+    always_use_package_imports: false
+    avoid_positional_boolean_parameters: false
+    avoid_bool_literals_in_conditional_expressions: false
+    no_leading_underscores_for_local_identifiers: false
+    use_string_buffers: false
